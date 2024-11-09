@@ -45,9 +45,10 @@ I'm always open to discussing new opportunities, sharing knowledge, or simply ta
 ## 🌐 More About Me  
   
 When I'm not coding, I enjoy:  
-  
-- Reading about the latest advancements in technology  
-- Hiking and exploring the outdoors  
+
+- Spending time with my wife and two kids  
+- Reading about the latest advancements in technology
+- Hiking and exploring the outdoors 
 - Running with goal of qualifiying for one of the big Marathons :)
 - Reading classic books( Catching up) :) 
   
