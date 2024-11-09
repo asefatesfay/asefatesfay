@@ -27,7 +27,7 @@ I'm always eager to expand my knowledge and stay up-to-date with the latest tren
   
 ## 🏆 Achievements  
   
-- Successfully led a team to develop a high-traffic e-commerce platform at Nordstrom.  
+- Successfully led a team to develop a high-traffic content managerment system for the e-commerce platform at Nordstrom.  
 - Architected and implemented a microservices infrastructure that improved system scalability and performance.  
 - Recognized for outstanding contributions in cloud migration projects.
 - Run first Marathon :) 
