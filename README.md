@@ -23,13 +23,15 @@ Welcome to my GitHub profile! I'm a Senior Software Engineer @Nordstrom with a p
   
 I'm always eager to expand my knowledge and stay up-to-date with the latest trends in technology. Currently, I'm diving deeper into:  
   
-- Data-science / Machine learning and AI integration  
+- Data-science / Machine learning and AI integration
+
   
 ## 🏆 Achievements  
   
 - Successfully led a team to develop a high-traffic content managerment system for the e-commerce platform at Nordstrom.  
 - Architected and implemented a microservices infrastructure that improved system scalability and performance.  
 - Recognized for outstanding contributions in cloud migration projects.
+- Completed one machine learning course in coursera https://coursera.org/share/3b72069ba1da68182a08d1f2746c0ac9
 - Run first Marathon :) 
 
   
