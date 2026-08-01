@@ -1,119 +1,91 @@
-# 👋 Hi there, I'm Assefa(Aa-Se-Sefa)!  
-  
-Welcome to my GitHub profile! I'm a Senior Software Engineer @Nordstrom with a passion for creating scalable and efficient software solutions. With years of experience in the industry, I specialize in full-stack development, focusing on modern web technologies and architecture patterns.  
-  
-## 🚀 About Me  
-  
-- **Full-Stack Engineer**: Expertise in both frontend and backend development.  
-- **Frontend**: Proficient in React and Next.js, building dynamic and responsive web applications.  
-- **Backend**: Skilled in designing and implementing microservices and event-driven architectures.  
-- **Cloud Architecture**: Experienced in deploying and managing applications on cloud platforms.  
-- **DevOps**: Knowledgeable in CI/CD pipelines, containerization, and infrastructure as code.  
-  
-## 🛠️ Skills & Tools Audit
-  
-### 1. Backend Development  
-**Technologies:**  
-- **Node.js & Express.js:** Extensive experience in building scalable server-side applications.  
-- **AWS Serverless:** Expertise in deploying serverless architectures using AWS Lambda and API Gateway.  
-- **Java:** Regularly used for enterprise-level backend solutions.  
-- **Golang:** Regularly used for building efficient REST APIs.  
-- **Spring Boot:** Proficient in building microservices and enterprise applications.  
-  
-### 2. DevOps and Cloud Computing  
-**Cloud Platforms:**  
-- **AWS (Amazon Web Services):** Deep expertise in designing and managing cloud architectures.  
-  
-**CI/CD Pipelines:**  
-- **GitLab CI/CD:** Proficient in setting up and managing continuous integration and deployment pipelines.  
-  
-**Containerization:**  
-- **Docker:** Skilled in containerizing applications for consistency and scalability.  
-- **Kubernetes:** Experienced in orchestrating containerized applications.  
-  
-**Programming for DevOps:**  
-- **Python:** Regularly used for scripting and automation tasks in DevOps.  
-  
-### 3. Databases  
-**NoSQL Databases:**  
-- **AWS DynamoDB:** Expertise in designing and managing NoSQL databases for high performance and scalability.  
-- **MongoDB:** Proficient in designing document-oriented databases for flexible schema design.  
-- **Apache Cassandra:** Skilled in managing wide-column store databases for high availability and scalability.  
-  
-**Relational Databases:**  
-- **PostgreSQL:** Proficient in designing and managing relational database schemas.  
-  
-**In-Memory Databases:**  
-- **Redis:** Experienced in using Redis for caching and real-time analytics.  
-  
-### 4. Search and Messaging  
-**Search Engines:**  
-- **Elasticsearch:** Proficient in setting up and managing search and analytics engines.  
-  
-**Messaging Queues:**  
-- **RabbitMQ:** Skilled in setting up and managing message broker systems for asynchronous communication.  
-  
-### 5. Programming Languages  
-**Primary Languages:**  
-- **JavaScript:** Advanced proficiency, particularly in the context of Node.js and frontend development.  
-- **Java:** Regularly used for backend development.  
-- **Golang:** Regularly used for efficient server-side development.  
-  
-**Secondary Languages:**  
-- **Python:** Used for DevOps automation and scripting.  
-  
-### 6. Architecture and Leadership  
-**Cloud Architecture:**  
-- Extensive experience in designing scalable and resilient cloud-based systems on AWS.  
-  
-**System Architecture:**  
-- Proficient in designing complex system architectures, ensuring high availability and performance.  
-  
-**Leadership and Design Reviews:**  
-- Experienced in leading design reviews, providing technical guidance, and mentoring team members.  
-- Expertise in conducting thorough code reviews and ensuring adherence to best practices.  
-  
-### 7. UI Development  
-**Technologies:**  
-- **React:** Competent in building dynamic and responsive user interfaces.  
-- **Next.js:** Proficient in server-side rendering and static site generation.  
-- **CSS:** Skilled in styling and layout techniques.  
-- **HTML:** Strong foundational knowledge for web development.  
-- **JavaScript:** Advanced proficiency in modern JavaScript (ES6+).  
-  
-## 🌱 What I'm Learning  
-  
-I'm always eager to expand my knowledge and stay up-to-date with the latest trends in technology. Currently, I'm diving deeper into:  
-  
-- Data-science / Machine learning and AI integration
+# 👋 Hi there, I'm Assefa (Aa-Se-fa)!
 
-  
-## 🏆 Achievements  
-  
-- Successfully led a team to develop a high-traffic content managerment system for the e-commerce platform at Nordstrom.  
-- Architected and implemented a microservices infrastructure that improved system scalability and performance.  
-- Recognized for outstanding contributions in cloud migration projects.
-- Completed one machine learning course in coursera https://coursera.org/share/3b72069ba1da68182a08d1f2746c0ac9
-- Run first Marathon :) 
+Welcome to my GitHub profile! I'm a Senior Software Engineer @Nordstrom specializing in **enterprise-scale architectures**, **cloud-native systems**, and **content management platforms**. I architect and build systems that handle millions of users while mentoring teams to deliver robust, scalable solutions.
 
-  
-## 💬 Let's Connect  
-  
-I'm always open to discussing new opportunities, sharing knowledge, or simply talking about the latest trends in tech. Feel free to connect with me on LinkedIn or drop me an email!  
-  
-- [LinkedIn](https://www.linkedin.com/in/assefatesfay)  
-- [Twitter](https://twitter.com/asefatesfay)  
-- [Email](mailto:assefatesfay@outlook.com)  
-  
-  
-## 🌐 More About Me  
-  
-When I'm not coding, I enjoy:  
+## 🚀 What I Do
 
-- Spending time with my wife and two kids  
-- Reading about the latest advancements in technology
-- Hiking and exploring the outdoors 
-- Running with goal of qualifiying for one of the big Marathons :)
-- Reading classic books( Catching up) :) 
-  
-Thank you for stopping by my profile!  
+I design and build **full-stack enterprise systems** with a focus on:
+
+- **Enterprise Architecture**: Designing scalable, multi-tenant systems with complex content modeling, authentication flows, and brand-specific workspaces
+- **Cloud-Native Development**: Building serverless and containerized applications on AWS with emphasis on resilience and performance
+- **Content Management Systems**: Deep expertise in headless CMS architectures, schema design, and content delivery pipelines
+- **Microservices & Event-Driven Systems**: Architecting distributed systems with message queues, event streaming, and service orchestration
+- **Technical Leadership**: Leading design reviews, establishing best practices, and mentoring engineers on architecture decisions
+
+## 💻 Core Technical Expertise
+
+### Languages & Frameworks
+- **TypeScript/JavaScript** - Primary language for full-stack development (Node.js, React, Next.js)
+- **Java & Spring Boot** - Enterprise microservices and backend systems
+- **Golang** - High-performance APIs and backend services
+- **Python** - DevOps automation, scripting, and data processing
+
+### Architecture & Design
+- **Headless CMS Architecture** - Sanity.io, content modeling, multi-workspace systems, schema design
+- **Microservices & Distributed Systems** - Event-driven architecture, service mesh, API gateway patterns
+- **Cloud Architecture (AWS)** - Lambda, DynamoDB, API Gateway, CloudFormation, serverless patterns
+- **Authentication & Security** - SAML/SSO, OAuth, Okta integration, enterprise identity management
+
+### Frontend Development
+- **React & Next.js** - Complex single-page applications, server-side rendering, static site generation
+- **Modern CSS** - Responsive design, component libraries, design systems
+- **Progressive Web Apps** - Performance optimization, accessibility, SEO
+
+### Backend & Data
+- **Databases**: PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis
+- **Message Queues**: RabbitMQ, SQS, event streaming
+- **Search**: Elasticsearch for full-text search and analytics
+- **REST & GraphQL APIs** - API design, versioning, documentation
+
+### DevOps & Infrastructure
+- **Containerization**: Docker, Kubernetes orchestration
+- **CI/CD**: GitLab CI/CD, GitHub Actions, automated deployment pipelines
+- **Monitoring & Observability**: New Relic, Splunk, CloudWatch, distributed tracing
+- **Infrastructure as Code**: CloudFormation, Terraform, configuration management
+
+## 🌱 What I'm Learning
+
+I'm always expanding my expertise and staying current with emerging technologies:
+
+- **Machine Learning & AI Integration** - Exploring ML model integration in production systems, AI-powered features, and intelligent automation
+- **Advanced Data Engineering** - Stream processing, real-time analytics, and data pipeline optimization
+- **Platform Engineering** - Developer experience, internal platforms, and productivity tooling
+
+## 🏆 Key Achievements
+
+- **Architected enterprise CMS platform** serving millions of users across Nordstrom and Nordstrom Rack brands with multi-workspace architecture, custom authentication, and scheduled publishing capabilities
+- **Led microservices transformation** that improved system scalability by 3x and reduced deployment time from hours to minutes
+- **Drove cloud migration initiatives** for critical e-commerce infrastructure, resulting in improved reliability and significant cost optimization
+- **Established engineering best practices** including design review processes, code quality standards, and automated testing strategies that reduced production incidents
+- **Machine Learning Certification** - Completed [Machine Learning Specialization on Coursera](https://coursera.org/share/3b72069ba1da68182a08d1f2746c0ac9)
+- **Marathon Runner** - Completed first marathon and training for major marathon qualification 🏃
+
+## 💡 Technical Leadership & Impact
+
+As a senior engineer, I focus on:
+- **System Design & Architecture Reviews** - Leading technical design discussions and ensuring architectural decisions align with business goals
+- **Mentoring & Code Reviews** - Guiding engineers on best practices, design patterns, and problem-solving approaches
+- **Cross-Team Collaboration** - Working with product, design, and infrastructure teams to deliver cohesive solutions
+- **Technical Strategy** - Evaluating new technologies, establishing standards, and driving technical roadmap
+
+## 💬 Let's Connect
+
+I'm always open to discussing technology, architecture challenges, career growth, or the latest trends in software engineering. Feel free to reach out!
+
+- [LinkedIn](https://www.linkedin.com/in/assefatesfay)
+- [Twitter](https://twitter.com/asefatesfay)
+- [Email](mailto:assefatesfay@outlook.com)
+
+## 🌐 Beyond Code
+
+When I'm not architecting systems or writing code:
+
+- 👨‍👩‍👧‍👦 Spending quality time with my wife and two kids
+- 📚 Reading about technology advancements and classic literature (catching up on the classics!)
+- 🏃 Running with the goal of qualifying for a major marathon
+- 🏔️ Hiking and exploring the Pacific Northwest outdoors
+- ☕ Always up for coffee chats about tech, architecture, or running
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about technology.
