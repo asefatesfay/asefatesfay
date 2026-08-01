@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Assefa (Aa-Se-Sefa)!
+# 👋 Hi there, I'm Assefa (Aa-Se-fa)!
 
 Welcome to my GitHub profile! I'm a Senior Software Engineer @Nordstrom specializing in **enterprise-scale architectures**, **cloud-native systems**, and **content management platforms**. I architect and build systems that handle millions of users while mentoring teams to deliver robust, scalable solutions.
 
