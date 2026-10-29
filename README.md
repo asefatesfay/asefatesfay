@@ -1,93 +1,80 @@
-# 👋 Hi there, I'm Assefa (Aa-Se-fa)!
+# 👋 Hi, I'm Assefa (Aa-Se-fa)!
 
-Welcome to my GitHub profile! I'm a Senior Software Engineer @Nordstrom specializing in **enterprise scale architectures**, **cloud-native systems**, and **content management platforms**. I architect and build systems that handle millions of users while mentoring teams to deliver robust, scalable solutions.
+### Senior Software Engineer | Backend Systems • Distributed Architecture • Cloud Engineering
 
-## 🚀 What I Do
+I'm a Senior Software Engineer at Nordstrom with 13+ years of experience designing, building, and operating backend services, distributed systems, and cloud-native applications.
 
-I design and build **full stack enterprise systems** with a focus on:
+I work across the software development lifecycle—from system architecture and hands-on development to infrastructure, deployment, performance optimization, and production reliability.
 
-- **Enterprise Architecture**: Designing scalable, multi-tenant systems with complex content modeling, authentication flows, and brand specific workspaces
-- **Cloud Native Development**: Building serverless and containerized applications on AWS with emphasis on resilience and performance
-- **Content Management Systems**: Deep expertise in headless CMS architectures, schema design, and content delivery pipelines
-- **Microservices & Event Driven Systems**: Architecting distributed systems with message queues, event streaming, and service orchestration
-- **Technical Leadership**: Leading design reviews, establishing best practices, and mentoring engineers on architecture decisions
+I enjoy solving challenging engineering problems, simplifying complex systems, and helping teams build reliable software.
 
-## 💻 Core Technical Expertise
+## 💻 Technical Expertise
 
-### Languages & Frameworks
-- **TypeScript/JavaScript** - Primary language for full stack development (Node.js, React, Next.js)
-- **Java & Spring Boot** - Enterprise microservices and backend systems
-- **Golang** - High performance APIs and backend services
-- **Python** - DevOps automation, scripting, and data processing
+**Languages & Frameworks**
+- Java, Spring Boot, Spring WebFlux
+- Go
+- Python, FastAPI, boto3
+- TypeScript, JavaScript, React, Node.js
 
-### Architecture & Design
-- **Headless CMS Architecture** - Sanity.io, content modeling, multi workspace systems, schema design
-- **AI/ML Integration & Generative AI** - AWS Bedrock, AI agents, LLM-powered content generation, prompt engineering
-- **Microservices & Distributed Systems** - Event driven architecture, service mesh, API gateway patterns
-- **Cloud Architecture (AWS)** - Lambda, DynamoDB, API Gateway, CloudFormation, serverless patterns
-- **Authentication & Security** - SAML/SSO, OAuth, Okta integration, enterprise identity management
+**Backend & Distributed Systems**
+- REST APIs and microservices
+- Event-driven architecture and asynchronous processing
+- Third-party API integrations and webhooks
+- Redis caching, DynamoDB, SQL Server
+- Performance optimization and system reliability
 
-### Frontend Development
-- **React & Next.js** - Complex single page applications, server side rendering, static site generation
-- **Modern CSS** - Responsive design, component libraries, design systems
-- **Progressive Web Apps** - Performance optimization, accessibility, SEO
+**Cloud & Infrastructure**
+- AWS: ECS, EKS, Lambda, SQS, SNS, API Gateway, S3, CloudWatch
+- Docker and Kubernetes
+- Terraform and CloudFormation
+- GitHub Actions, GitLab CI/CD
+- Monitoring, observability, and production operations
 
-### Backend & Data
-- **Databases**: PostgreSQL, MongoDB, DynamoDB, Cassandra, Redis
-- **Message Queues**: RabbitMQ, SQS, event streaming
-- **Search**: Elasticsearch for full text search and analytics
-- **REST & GraphQL APIs** - API design, versioning, documentation
+**AI Engineering**
+- AWS Bedrock and AgentCore
+- LangChain and AI agent integration
+- Python/FastAPI applications for AI-powered workflows
 
-### DevOps & Infrastructure
-- **Containerization**: Docker, Kubernetes orchestration
-- **CI/CD**: GitLab CI/CD, GitHub Actions, automated deployment pipelines
-- **Monitoring & Observability**: New Relic, Splunk, CloudWatch, distributed tracing
-- **Infrastructure as Code**: CloudFormation, Terraform, configuration management(Ansible)
+## 🚀 Selected Engineering Highlights
 
-## 🌱 What I'm Learning
+- **Distributed Systems:** Co-led the modernization of a content publishing platform using Go, AWS Lambda, SNS/SQS, DynamoDB, and Redis, improving reliability and eliminating lost publishing events.
 
-I'm always expanding my expertise and staying current with emerging technologies:
+- **API Performance:** Improved a Go-based API's response time by 40% while reducing resource consumption by 50%.
 
-- **Advanced AI & Machine Learning** - Building on production experience with AWS Bedrock, exploring fine tuning, RAG patterns, and advanced prompt engineering techniques
-- **Advanced Data Engineering** - Stream processing, real time analytics, and data pipeline optimization
-- **Platform Engineering** - Developer experience, internal platforms, and productivity tooling
+- **Caching & Scalability:** Implemented a two-tier caching strategy that reduced upstream requests by approximately 99.8%.
 
-## 🏆 Key Achievements
+- **Cloud Modernization:** Led a production service migration from ECS Fargate to Kubernetes, completing an incremental gateway cutover with zero client downtime.
 
-- **Architected enterprise CMS platform** serving millions of users across Nordstrom and Nordstrom Rack brands with multi workspace architecture, custom authentication, and scheduled publishing capabilities
-- **Architected and led AI-powered content generation system** using AWS Bedrock and AI agents to automatically generate personalized promotion content for different customer audiences, accelerating content creation and enabling dynamic personalization at scale
-- **Led microservices transformation** that improved system scalability by 3x and reduced deployment time from hours to minutes
-- **Drove cloud migration initiatives** for critical e-commerce infrastructure, resulting in improved reliability and significant cost optimization
-- **Established engineering best practices** including design review processes, code quality standards, and automated testing strategies that reduced production incidents
-- **Machine Learning Certification** - Completed [Machine Learning Specialization on Coursera](https://coursera.org/share/3b72069ba1da68182a08d1f2746c0ac9)
-- **Marathon Runner** - Completed first marathon and training for major marathon qualification 🏃
+- **AI Application Development:** Led a five-engineer team from a Python/FastAPI AI copy-generation proof of concept through business approval and completed implementation. The application is undergoing UAT, with internal testing demonstrating a reduction in campaign creation time from 10–15 hours to under one hour.
 
-## 💡 Technical Leadership & Impact
+- **Engineering Productivity:** Helped modernize CI/CD pipelines across 40+ services, introducing reusable workflows, automated validation, and safer deployment practices.
 
-As a senior engineer, I focus on:
-- **System Design & Architecture Reviews** - Leading technical design discussions and ensuring architectural decisions align with business goals
-- **Mentoring & Code Reviews** - Guiding engineers on best practices, design patterns, and problem-solving approaches
-- **Cross-Team Collaboration** - Working with product, design, and infrastructure teams to deliver cohesive solutions
-- **Technical Strategy** - Evaluating new technologies, establishing standards, and driving technical roadmap
+## 🧠 Engineering Interests
 
-## 💬 Let's Connect
+I'm particularly interested in:
 
-I'm always open to discussing technology, architecture challenges, career growth, or the latest trends in software engineering. Feel free to reach out!
+- Distributed systems and system design
+- Backend performance and reliability
+- Cloud-native architecture and platform engineering
+- AI-powered applications and agentic systems
+- Developer productivity and engineering best practices
 
-- [LinkedIn](https://www.linkedin.com/in/assefatesfay)
-- [Twitter](https://twitter.com/asefatesfay)
-- [Email](mailto:assefatesfay@outlook.com)
+I'm continually deepening my understanding of Java and Spring internals, distributed systems, Kubernetes, and modern AI application development.
 
-## 🌐 Beyond Code
+## 🤝 Technical Leadership
 
-When I'm not architecting systems or writing code:
+Beyond writing code, I enjoy mentoring engineers, reviewing architectural designs, collaborating across teams, and helping translate complex business requirements into practical technical solutions.
 
-- 👨‍👩‍👧‍👦 Spending quality time with my wife and two kids
-- 📚 Reading about technology advancements and classic literature (catching up on the classics!)
-- 🏃 Running with the goal of qualifying for a major marathon
-- 🏔️ Hiking and exploring the Pacific Northwest outdoors
-- ☕ Always up for coffee chats about tech, architecture, or running
+I believe good engineering is about making thoughtful trade-offs, building systems that are maintainable and reliable, and choosing the simplest solution that meets the requirements.
 
----
+## 🌐 Beyond Engineering
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate or just chat about technology.
+Outside of work, I'm a marathon runner, enjoy hiking and backpacking in the Pacific Northwest, and love spending time with my family.
+
+I'm always interested in discussing software engineering, system design, cloud technologies, and running.
+
+## 📫 Connect
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/assefatesfay)
+- **GitHub:** Explore my repositories and projects
+- **Email:** [assefatesfay@outlook.com](mailto:assefatesfay@outlook.com)
