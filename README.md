@@ -1,79 +1,65 @@
 # 👋 Hi, I'm Assefa (Aa-Se-fa)!
 
-### Senior Software Engineer | Backend Systems • Distributed Architecture • Cloud Engineering
+### Senior Software Engineer | Distributed Systems • Cloud Platforms • Applied AI
 
-I'm a Senior Software Engineer at Nordstrom with 13+ years of experience designing, building, and operating backend services, distributed systems, and cloud-native applications.
+I build software that has to work beyond the happy path.
 
-I work across the software development lifecycle—from system architecture and hands-on development to infrastructure, deployment, performance optimization, and production reliability.
+I'm a Senior Software Engineer at Nordstrom with 13+ years of experience designing, building, and operating distributed systems, backend services, and enterprise commerce platforms.
 
-I enjoy solving challenging engineering problems, simplifying complex systems, and helping teams build reliable software.
+My work spans system architecture, hands-on development, cloud infrastructure, and production operations. I've led platform modernization initiatives, designed resilient integrations, improved performance and scalability, and helped engineering teams deliver reliable software.
+
+I'm comfortable working across the stack, but my strongest interests are backend engineering, distributed systems, and the architectural decisions that make complex systems reliable and maintainable.
 
 ## 💻 Technical Expertise
 
 **Languages & Frameworks**
-- Java, Spring Boot, Spring WebFlux
-- Go
-- Python, FastAPI, boto3
+- Java 21, Spring Boot, Spring WebFlux
+- Go, Python, FastAPI
 - TypeScript, JavaScript, React, Node.js
 
-**Backend & Distributed Systems**
-- REST APIs and microservices
-- Event-driven architecture and asynchronous processing
-- Third-party API integrations and webhooks
-- Redis caching, DynamoDB, SQL Server
-- Performance optimization and system reliability
+**Distributed Systems & Backend**
+- Microservices, REST APIs, event driven architecture
+- Asynchronous messaging, queues, and event processing
+- Distributed caching, concurrency, and fault tolerance
+- Redis, DynamoDB, SQL Server
+- API performance, resilience, and scalability
 
-**Cloud & Infrastructure**
-- AWS: ECS, EKS, Lambda, SQS, SNS, API Gateway, S3, CloudWatch
-- Docker and Kubernetes
-- Terraform and CloudFormation
+**Cloud & Platform Engineering**
+- AWS: ECS, EKS, Lambda, SNS, SQS, API Gateway, S3, CloudWatch
+- Kubernetes, Docker, Terraform, CloudFormation
 - GitHub Actions, GitLab CI/CD
-- Monitoring, observability, and production operations
+- Deployment automation, observability, and production reliability
 
-**AI Engineering**
-- AWS Bedrock and AgentCore
-- LangChain and AI agent integration
-- Python/FastAPI applications for AI-powered workflows
+**Applied AI**
+- AWS Bedrock, AgentCore
+- AI agents, RAG, knowledge bases, and agent memory
+- Python/FastAPI for AI applications
+- Tool integration, guardrails, and human approval workflows
 
-## 🚀 Selected Engineering Highlights
+## 🏗️ Engineering Experience
 
-- **Distributed Systems:** Co-led the modernization of a content publishing platform using Go, AWS Lambda, SNS/SQS, DynamoDB, and Redis, improving reliability and eliminating lost publishing events.
+Over the years, I've worked on engineering challenges involving:
 
-- **API Performance:** Improved a Go-based API's response time by 40% while reducing resource consumption by 50%.
+- **Platform modernization:** Evolving legacy applications and infrastructure into maintainable, scalable systems while preserving existing functionality.
+- **Distributed architecture:** Designing event driven services, asynchronous workflows, caching strategies, and resilient integrations with external systems.
+- **Performance and reliability:** Identifying bottlenecks, reducing unnecessary resource consumption, improving failure recovery, and preparing systems for demanding production workloads.
+- **Cloud engineering:** Migrating applications, automating infrastructure, improving deployment safety, and operating services on AWS and Kubernetes.
+- **Applied AI:** Building AI assisted applications that combine language models, enterprise knowledge, backend services, and human review.
+- **Technical leadership:** Guiding architectural decisions, mentoring engineers, and collaborating across teams to solve complex engineering problems.
 
-- **Caching & Scalability:** Implemented a two-tier caching strategy that reduced upstream requests by approximately 99.8%.
+## 🧠 How I Think About Engineering
 
-- **Cloud Modernization:** Led a production service migration from ECS Fargate to Kubernetes, completing an incremental gateway cutover with zero client downtime.
+Writing code is only part of the job. Understanding why a system is designed a certain way, what happens when dependencies fail, and how it behaves under load matters just as much.
 
-- **AI Application Development:** Led a five-engineer team from a Python/FastAPI AI copy-generation proof of concept through business approval and completed implementation. The application is undergoing UAT, with internal testing demonstrating a reduction in campaign creation time from 10–15 hours to under one hour.
+I value simple designs, clear ownership, measurable improvements, and engineering decisions grounded in real constraints rather than unnecessary complexity.
 
-- **Engineering Productivity:** Helped modernize CI/CD pipelines across 40+ services, introducing reusable workflows, automated validation, and safer deployment practices.
+I'm particularly interested in distributed systems, Java and JVM internals, cloud architecture, and practical AI engineering.
 
-## 🧠 Engineering Interests
+## 🌐 Outside of Engineering
 
-I'm particularly interested in:
-
-- Distributed systems and system design
-- Backend performance and reliability
-- Cloud-native architecture and platform engineering
-- AI-powered applications and agentic systems
-- Developer productivity and engineering best practices
-
-I'm continually deepening my understanding of Java and Spring internals, distributed systems, Kubernetes, and modern AI application development.
-
-## 🤝 Technical Leadership
-
-Beyond writing code, I enjoy mentoring engineers, reviewing architectural designs, collaborating across teams, and helping translate complex business requirements into practical technical solutions.
-
-I believe good engineering is about making thoughtful trade-offs, building systems that are maintainable and reliable, and choosing the simplest solution that meets the requirements.
-
-## 🌐 Beyond Engineering
-
-Outside of work, I'm a marathon runner, enjoy hiking and backpacking in the Pacific Northwest, and love spending time with my family.
-
-I'm always interested in discussing software engineering, system design, cloud technologies, and running.
+I'm a marathon runner and enjoy hiking and backpacking in the Pacific Northwest. When I'm not working on software or running, I enjoy spending time with my family.
 
 ## 📫 Connect
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/assefatesfay)
+- **LinkedIn:** [linkedin.com/in/assefatesfay](https://www.linkedin.com/in/assefatesfay)
 - **Email:** [assefatesfay@outlook.com](mailto:assefatesfay@outlook.com)
