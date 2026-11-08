@@ -76,5 +76,4 @@ I'm always interested in discussing software engineering, system design, cloud t
 ## 📫 Connect
 
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/assefatesfay)
-- **GitHub:** Explore my repositories and projects
 - **Email:** [assefatesfay@outlook.com](mailto:assefatesfay@outlook.com)
